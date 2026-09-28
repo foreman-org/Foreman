@@ -16,7 +16,7 @@ Ubuntu 24.04, then:
 ```bash
 ssh root@SERVER
 curl -fsSL https://get.docker.com | sh
-git clone https://github.com/Delight-bot/Foreman.git /opt/foreman && cd /opt/foreman
+git clone https://github.com/foreman-org/Foreman.git /opt/foreman && cd /opt/foreman
 ```
 
 ## 2. Settings
